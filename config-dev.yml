@@ -3,5 +3,5 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     password: root
     username: root
-    url: jdbc:mysql://localhost:3306/db2022?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/yuguanwen?serverTimezone=UTC
     driver-class-name: com.mysql.cj.jdbc.Driver
